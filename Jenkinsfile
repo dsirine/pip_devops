@@ -33,6 +33,7 @@ stage('stage12'){
 
 
 }
+}
 post
 {
 	success {
